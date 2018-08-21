@@ -1,0 +1,72 @@
+
+.backgroundbody{
+	/*background: url(image/background2.jpg);*/
+	background: #d7ddde;
+	/*background-size: cover;*/
+	font-family: sans-serif;
+	background-repeat: no-repeat;
+}
+.logform{
+	margin: 13%;
+}
+.inputclass{
+	border-radius: 20px !important;
+	margin: 30px 0;
+	width: 100%;
+}
+.registerinput{
+	border-radius: 20px !important;
+	width: 100%;
+}
+.btnregister{
+	width: 50%;
+	border-radius: 20px !important;
+	padding: 5px 0;
+	background:#0848F4;
+	color:#fff;
+	font-weight: 700;
+	margin: 20px 140px;
+
+}
+.btnregister:hover
+{
+	background:#00BD5C;
+}
+.login-button
+{
+	margin-top: 20px;
+	width: 70%;
+	padding: 10px 0;
+	margin-left: 16%;
+	background: #0A93F8;
+	border-radius: 20px !important;
+	font-weight: 600;
+	font-size: 20px;
+	color: #fff;
+}
+.login-button:hover{
+	/*opacity: 0.4;*/
+	background: #00BD5C;
+}
+.dont-have-acc {
+	font-family: sans-serif;
+	margin: 40px 0;
+}
+.dont-have-acc h5
+{
+	text-align: center;
+}
+.dont-have-acc a{
+	color: #017FF6;
+	text-decoration: underline;
+}
+.dont-have-acc a:hover{
+	color: orange;
+}
+
+.cat-delete  {
+	display: inline-block!important;
+}
+.text-danger p{
+	color: #a94442!important;
+}
